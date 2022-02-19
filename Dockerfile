@@ -23,7 +23,7 @@ RUN sed -i -e 's/dl-cdn.alpinelinux.org/mirrors.tuna.tsinghua.edu.cn/' /etc/apk/
     # git config --global user.email "builder@gmail.com" ; \
     # cd /usr/src; \
     # # 从git下周项目到容器
-    # # git clone https://github.com/tekintian/myserver.git; \
+    # # git clone https://github.com/tekintian/myserver-demo.git; \
     cd /usr/src/myserver ;\
     # 初始化项目模块
     go mod init ; \
