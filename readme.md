@@ -1,7 +1,6 @@
 # mini http server demo
 
 
-
 ## Docker images build
 
 ~~~sh
